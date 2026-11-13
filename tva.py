@@ -11,3 +11,5 @@ else:
 
     print(f"Montant de la TVA : {montant_tva:.2f} DT")
     print(f"Montant TTC : {montant_ttc:.2f} DT")
+python
+# calcul de la TVA avec les taux de 7% et 13%
