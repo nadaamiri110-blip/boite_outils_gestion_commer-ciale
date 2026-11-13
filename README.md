@@ -26,7 +26,12 @@ python total_ventes.py
 
 ## Auteur
 À compléter par l'étudiant(e).
+<<<<<<< HEAD
 ## Branche develop
 cette branche est utilisée pour développer et améliorer les fonctionnalités du projet.
 ## Version du projet
 Version : main
+=======
+## version du projet
+version : develop
+>>>>>>> develop
